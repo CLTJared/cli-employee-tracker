@@ -15,10 +15,10 @@
 -- | role_id **
 -- | manager_id
 -- -- -- -- -- -- -- -- -- --
-DROP DATABASE IF EXISTS employees;
-CREATE DATABASE IF NOT EXISTS employees;
+DROP DATABASE IF EXISTS employees_db;
+CREATE DATABASE IF NOT EXISTS employees_db;
 
-USE employees;
+USE employees_db;
 
 CREATE TABLE department (
     id      int         NOT NULL    AUTO_INCREMENT,
