@@ -60,7 +60,7 @@ After cloning the repo, import the files in the DB folder into your MySQL databa
 1. schema.sql - ***required***
 2. seed.sql
 
-Once database is created, open `.env.default`, copy the contents into a new file called `.env` and fill out the required variables to be used in this project.
+Once database is created, open `.env.default`, copy the contents into a new file called `.env`, and fill out the required variables to be used in this project.
 
 ## Usage
 On first startup, run the following command to install the required NPM packages
