@@ -74,5 +74,7 @@ node index.js
 ``` 
 
 ## Demo Video
+[View Demo Video](https://drive.google.com/file/d/1c6EiFKQysRDURcUIg8A1moBCOZrPlP9q/view)
 
 ## Screenshot
+![Screenshot](./assets/app-ss.JPG)
